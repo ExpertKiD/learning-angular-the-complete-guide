@@ -1,0 +1,16 @@
+.hidden {
+  display: none;
+}
+
+.shown {
+  display: block;
+}
+
+.log:nth-child(n+5){
+  color: white;
+  background: blue;
+}
+
+.white-text {
+  color: #fff;
+}
