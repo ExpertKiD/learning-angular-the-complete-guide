@@ -1,0 +1,13 @@
+.hidden {
+  display: none;
+}
+
+.shown {
+  display: block;
+}
+
+.log:nth-child(n+6){
+  color: white;
+  background: red;
+}
+
